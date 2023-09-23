@@ -1,0 +1,6 @@
+Name,Username,Password,Bio,Followers,Following,Profile Picture,BackgroundPicture,isFollowing
+Joe Rogan,joerogan,elkmeat,Podcaster and wrestling commentator,68000000,307,src/imgs/joe.png,src/imgs/sus.jpeg,false
+Donald Trump,trumptydumpty,mexicans, Make America great again,3000000,106,src/imgs/trump.png,src/imgs/trumpbg.jpeg,false
+Justin Trudeau,justintrudeau,eh,Sorry!,6100000,940,src/imgs/trudeau.png,src/imgs/trudeaubg.jpeg,false
+Elon Musk,elonmusk,X Æ A-Xii,Bitcoin bad,97800000,106,src/imgs/musk.png,src/imgs/muskbg.jpeg,false
+Warren Buffet,warrenbuffet,$$,Work smart not hard,88700000,112,src/imgs/buffet.png,src/imgs/buffetbg.jpeg,false
